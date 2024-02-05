@@ -4,6 +4,9 @@ Personal assistant created using Python language that will listen to your voice 
 What you need to install using pip install :
 
 -pyttsx3
+
 -pyaudio
+
 -speech_recognition
+
 -json
